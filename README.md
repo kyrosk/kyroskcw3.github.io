@@ -1,3 +1,6 @@
+# THE REPOSITORY IT IS JUST TO MY SURVIS WEBSITE FOR A COURSEWORK 
+
+
 # SurVis - Visual Literature Browser
 
 ![Screenshot](/doc/survis.png)
