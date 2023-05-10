@@ -1,4 +1,21 @@
 ﻿define({ entries : {
+    "10.1109/SP46215.2023.00121": {
+        "abstract": "One of the biggest privacy concerns of smart home users is enforcing limits on household members&#x27; access to devices and each other&#x27;s data. While people commonly express preferences for intricate access control policies, in practice they often settle for less secure defaults. As an alternative, this paper investigates &quot;optimistic access control&quot; policies that allow users to obtain access and data without pre-approval, subject to oversight from other household members. This solution allows users to leverage the interpersonal trust they already rely on in order to establish privacy boundaries commensurate with more complex access control methods, while retaining the convenience of less secure strategies. To evaluate this concept, we conducted a series of surveys with 604 people total, studying the acceptability and perceptions of this approach. We found that a number of respondents preferred optimistic modes to existing access control methods and that interest in optimistic access varied with device type and household characteristics.",
+        "address": "Los Alamitos, CA, USA",
+        "author": "N. Malkin and A. F. Luo and J. Poveda and M. L. Mazurek",
+        "booktitle": "2023 2023 IEEE Symposium on Security and Privacy (SP) (SP)",
+        "doi": "https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00121",
+        "issn": "",
+        "keywords": "usable security,access control,usable privacy,smart home,internet of things,internet of things privacy,interpersonal privacy",
+        "month": "may",
+        "pages": "2112-2129",
+        "publisher": "IEEE Computer Society",
+        "title": "Optimistic Access Control for the Smart Home",
+        "type": "INPROCEEDINGS",
+        "url": "https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00121",
+        "volume": "",
+        "year": "2023"
+    },
     "10.1145/3274469": {
         "abstract": "Smart home Internet of Things (IoT) devices are rapidly increasing in popularity, with more households including Internet-connected devices that continuously monitor user activities. In this study, we conduct eleven semi-structured interviews with smart home owners, investigating their reasons for purchasing IoT devices, perceptions of smart home privacy risks, and actions taken to protect their privacy from those external to the home who create, manage, track, or regulate IoT devices and/or their data. We note several recurring themes. First, users' desires for convenience and connectedness dictate their privacy-related behaviors for dealing with external entities, such as device manufacturers, Internet Service Providers, governments, and advertisers. Second, user opinions about external entities collecting smart home data depend on perceived benefit from these entities. Third, users trust IoT device manufacturers to protect their privacy but do not verify that these protections are in place. Fourth, users are unaware of privacy risks from inference algorithms operating on data from non-audio/visual devices. These findings motivate several recommendations for device designers, researchers, and industry standards to better match device privacy features to the expectations and preferences of smart home owners.",
         "address": "New York, NY, USA",
@@ -149,22 +166,5 @@
         "url": "https://doi.org/10.56553%2Fpopets-2023-0033",
         "volume": "2023",
         "year": "2023,"
-    },
-    "https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00121": {
-        "abstract": "One of the biggest privacy concerns of smart home users is enforcing limits on household members&#x27; access to devices and each other&#x27;s data. While people commonly express preferences for intricate access control policies, in practice they often settle for less secure defaults. As an alternative, this paper investigates &quot;optimistic access control&quot; policies that allow users to obtain access and data without pre-approval, subject to oversight from other household members. This solution allows users to leverage the interpersonal trust they already rely on in order to establish privacy boundaries commensurate with more complex access control methods, while retaining the convenience of less secure strategies. To evaluate this concept, we conducted a series of surveys with 604 people total, studying the acceptability and perceptions of this approach. We found that a number of respondents preferred optimistic modes to existing access control methods and that interest in optimistic access varied with device type and household characteristics.",
-        "address": "Los Alamitos, CA, USA",
-        "author": "N. Malkin and A. F. Luo and J. Poveda and M. L. Mazurek",
-        "booktitle": "2023 2023 IEEE Symposium on Security and Privacy (SP) (SP)",
-        "doi": "https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00121",
-        "issn": "",
-        "keywords": "usable security,access control,usable privacy,smart home,internet of things,internet of things privacy,interpersonal privacy",
-        "month": "may",
-        "pages": "2112-2129",
-        "publisher": "IEEE Computer Society",
-        "title": "Optimistic Access Control for the Smart Home",
-        "type": "INPROCEEDINGS",
-        "url": "https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00121",
-        "volume": "",
-        "year": "2023"
     }
 }});
